@@ -1,8 +1,3 @@
-# PersonalBio
-this is just a personal bio
-
-{::nomarkdown}
-
 <html>
 
 <body>
@@ -27,5 +22,3 @@ this is just a personal bio
 </body>
 
 </html>
-
-{:/}
