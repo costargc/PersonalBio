@@ -15,7 +15,6 @@
 <ul>
     <li><strong>Email: </strong><a href="mailto:costa.rgc@gmail.com">costa.rgc@gmail.com</a></li>
     <li><strong>Github: </strong><a href="https://github.com/costargc" target="_blank">github.com/costargc</a></li>
-    <li><strong>Portfolio: </strong><i>comming soon</i></li>
 </ul>
 
 </form>
