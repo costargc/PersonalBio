@@ -2,7 +2,7 @@
 
 <body>
 
-<h1>Student Bio</h1>
+<h1>Personal Bio</h1>
 <h2>Rodrigo Costa</h2>
 
 <img src="https://avatars0.githubusercontent.com/u/25669140?s=460&v=4" height="200" width="200">
@@ -17,7 +17,6 @@
     <li><strong>Github: </strong><a href="https://github.com/costargc" target="_blank">github.com/costargc</a></li>
 </ul>
 
-</form>
 </body>
 
 </html>
