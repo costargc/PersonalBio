@@ -1,0 +1,42 @@
+body{
+    margin-left: 150px;
+    margin-right: 150px;
+    background: lightgray;
+    line-height: 1.5;
+    color: #444;
+    
+}
+.main_div{
+    padding-left: 150px;
+    padding-right: 150px;
+    background:white;
+    height: 1500px;
+}
+
+.relative{
+    position:relative;
+    background: lightgray;
+    text-align: center;
+    padding:20px 0px 107px 0px;
+    left: 0; 
+    top: 0; 
+    width: auto;
+}
+
+.fixed{
+    position:fixed;
+    padding:40px 40px 40px 40px;
+    background: lightgray;
+    left: 170px;
+    top: 30px;
+}
+
+.absolute{
+    position:absolute;
+    padding:30px 60px 30px 60px;
+    background: darkgray;
+    top:270px;
+    left:1200px;
+}
+
+
